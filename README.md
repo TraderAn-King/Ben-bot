@@ -1,79 +1,145 @@
-## BEN BOT
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center"> 
-<u>⚡ WHATSAPP BOT CREATED BY NOTHING ⚡</u>
-</p>
-<p align="center">
-<img src="https://imgur.com/a/smfYwOK"/>       
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=BEN BOT BEST WHATSAPP BOT;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+NOTHING;RELEASED+DATE+22%2F8%2F2024." alt="Typing SVG" /></a>
- </p>
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Nothing-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/TraderAn-King/BEN_BOT-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TraderAn-King/BEN_BOT-V1?color=blue&style=flat-square"></a>
-<a href="https://github.com/TraderAn-King/BEN_BOT-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TraderAn-King/BEN_BOT-V1?color=yellow&style=flat-square"></a>
-<a href="https://github.com/TraderAn-King/BEN_BOT-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TraderAn-King/BEN_BOT-V1?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/TraderAn-King/BEN_BOT-V1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-#
+![𝗕𝗘𝗡-𝗕𝗢𝗧](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+𝐀𝐒𝐒𝐋𝐀𝐌-𝐔-𝐀𝐋𝐀𝐈𝐊𝐔𝐌+❣️+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄+👋🏻;😍+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝗕𝗘𝗡-𝗕𝗢𝗧💙;🔥+𝐓𝐇𝐄+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓+𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄!;🎉+𝐄𝐍𝐉𝐎𝐘+𝐔𝐍𝐋𝐈𝐌𝐈𝐓𝐄𝐃+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒+𝐀𝐍𝐃+𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒!;💡+𝐅𝐀𝐒𝐓+𝐑𝐄𝐋𝐈𝐀𝐁𝐋𝐄+𝐔𝐒𝐄𝐑-𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘+𝐁𝐎𝐓!;✨+𝐋𝐄𝐓'𝐒+𝐆𝐄𝐓+𝐒𝐓𝐀𝐑𝐓𝐄𝐃!)
 
-## BEN BOT Deployment Methods
----
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/TraderAn-King/BEN_BOT-V1/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@gdgdlkamshz/Nothing-pair-1)** 
 
-3. **NO NEED SESSION ID DEPOLY AND USE YOUR NUMBER PUT IN WHATSAPP SUCCESSFULLY CONNECTED**
+<div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
+    <a href="" style="text-decoration: none;">
+        <img 
+            alt="NOTHING" 
+            width="700" 
+            height="400" 
+            src="https://i.ibb.co/hH31Nd4/ben.jpg" 
+            style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
+            onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
+            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
+        >
+    </a>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">WELCOME 𝙏𝙊 NOTHING BEN-BOT 𝙁𝙊𝙍 WHATSAPP</p>
 
-4. **Deploy on [`SCALINGO`](https://dashboard.scalingo.com)**
 
-5. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template*=https://github.com/TraderAn-King/BEN_BOT-V1)** 
 
-6. **Deploy on [`REPLIT`](https://replit.com/github/TraderAn-King/BEN_BOT-V1)** 
+<div align="center">
+    <a href="https://github.com/TraderAn-King/Ben-bot">
+        <img title="Author" src="https://img.shields.io/badge/𝗕𝗘𝗡%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
+    </a>
+    <br>
+    <a href="https://github.com/TraderAn-King?tab=followers">
+        <img title="Followers" src="https://img.shields.io/github/followers/TraderAn-King?label=Followers&style=social">
+    </a>
+    <a href="https://github.com/TraderAn-King/Ben-bot/stargazers/">
+        <img title="Stars" src="https://img.shields.io/github/stars/TraderAn-King/Ben-bot?style=social">
+    </a>
+    <a href="https://github.com/TraderAn-King/Ben-bot/network/members">
+        <img title="Fork" src="https://img.shields.io/github/forks/TraderAn-King/Ben-bot?style=social">
+    </a>
+    <a href="https://github.com/TraderAn-King/Ben-bot/watchers">
+        <img title="Watching" src="https://img.shields.io/github/watchers/TraderAn-King/Ben-bot?label=Watching&style=social">
+    </a>
+</div>
 
-7. **Deploy on [`RAILWAY`](https://railway.com/github/TraderAn-King/BEN_BOT-V1)**  
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝗕𝗘𝗡-𝗕𝗢𝗧</h1>
 
-8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32) for more**
+<div align="center">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
 
-9. **All Tutorials Here [`Click Here`](https://ronix_tech)**
+<div align="left">
 
-</a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
- <br> 
-<p align="center">
-<a href="https://wa.me/93744215959"><img src="https://img.shields.io/badge/Contact Nothing-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://t.me/ronix_tech"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
-<p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# 
+<div align="center">
 
+ ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
+   <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀1️⃣</h3>
+    <a href="https://panhwar-pair-9aaf305c0a91.herokuapp.com/">
+        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white">
+    </a>
+</div>
 <br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+       <div align="center">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
+<div align="center">
 
-* [🧑‍💻 Follow BEN BOT Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32)
+ ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
+   <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀2️⃣</h3>
+    <a href="https://panhwar-pair-v1-use-ee9839ffd9b5.herokuapp.com/">
+        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-black?style=for-the-badge&logo=heroku&logoColor=white">
+    </a>
+</div>
+<br>
+       <div align="center">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
+<div align="center">
+    
 
-* [🧑‍💻 Join Use BEN BOT Telegram Group 🧑‍💻](https://t.me/Ronix_Group)
+### 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙊𝙋𝙏𝙄𝙊𝙉𝙎
+</div>
+<div align="center">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/TraderAn-King/Ben-bot">
+        <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
+    </a>
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/TraderAn-King/Ben-bot">
+        <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
+    </a>
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/TraderAn-King/Ben-bot">
+        <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
+    </a>
+</div>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/EKayqcDGrjC1XtF2DYuZdn)
+### <br>    ❖ CREATE ACCOUNT HOST.TALKDROVE WEB ❖
 
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
+<p align="center">
+<a href="https://host.talkdrove.com/auth/signup?ref=2E22E5E8"><img height= "35" title="Author" src="https://img.shields.io/badge/Signup H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
+<p/>
 
-- *BEN BOT is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use BEN_BOT-V1 at your own risk by keeping this warning in mind.*
-  
-  #### ```NOTHING PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/TraderAn-King/count.svg)
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### <br>    ❖  FREE DEPLOY HOST.TALKDROVE WEB ❖
 
-## Community and Support
+<p align="center">
+<a href="https://host.talkdrove.com/share-bot/62"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
+<p/> 
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    
+### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
 
-FOLLOW NOTHING WHAtSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32))
+</div>
+
+
+
+
+
+
+<p align="center">
+    <a href="https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32">
+        <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</p>
+
+<div align="center">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
+
+
+### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃-𝐁𝐎𝐓`]
+- 🪄 Arabic = ar
+- 🪄 Pashto = ps
+- 🪄 Persian = fa
+- 🪄 Urdu = ur
+- 🪄 English Global = en
+- 🪄 Bahasa Indonesia = id
+- 🪄 Portuguese = pt
+- 🪄 Spanish = es
+
+<div align="left">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
