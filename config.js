@@ -1143044,8 +1143044,8 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '+93744215959'
-global.nomerowner = ["+93744215959"]
+global.owner = '93744215959'
+global.nomerowner = ["93744215959"]
 
 //channel jid
 global.channelChatId = "0029Vasu3qP9RZAUkVkvSv32";
