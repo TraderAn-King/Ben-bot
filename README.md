@@ -1,4 +1,4 @@
-![𝗕𝗘𝗡-𝗕𝗢𝗧](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+𝐀𝐒𝐒𝐋𝐀𝐌-𝐔-𝐀𝐋𝐀𝐈𝐊𝐔𝐌+❣️+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄+👋🏻;😍+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝗕𝗘𝗡-𝗕𝗢𝗧💙;🔥+𝐓𝐇𝐄+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓+𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄!;🎉+𝐄𝐍𝐉𝐎𝐘+𝐔𝐍𝐋𝐈𝐌𝐈𝐓𝐄𝐃+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒+𝐀𝐍𝐃+𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒!;💡+𝐅𝐀𝐒𝐓+𝐑𝐄𝐋𝐈𝐀𝐁𝐋𝐄+𝐔𝐒𝐄𝐑-𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘+𝐁𝐎𝐓!;✨+𝐋𝐄𝐓'𝐒+𝐆𝐄𝐓+𝐒𝐓𝐀𝐑𝐓𝐄𝐃!)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=SILENT-SOBX-MD" alt="Typing SVG" /></a>
 
 
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
