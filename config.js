@@ -1,143 +1,7 @@
 //POWERED BY NOTHING 😂😂
 //DON'T CHANGE MY CODE AND DON'T DON'T COPY 😡
 //GOOD DAY BYEE😁
- 
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
- 
- 
- 
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
+
  
   
  
@@ -1143044,13 +1142908,13 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '93744215959'
-global.nomerowner = ["93744215959"]
+global.owner = '+93744215959'
+global.nomerowner = ["+93744215959"]
 
 //channel jid
 global.channelChatId = "0029Vasu3qP9RZAUkVkvSv32";
 //watermark 
-global.packname = '*𝑵𝑶𝑻𝑯𝑰𝑵𝑮*'
+global.packname = '𝑵𝑶𝑻𝑯𝑰𝑵𝑮'
 global.author = '𝑩𝑬𝑵_𝑩𝑶𝑻'
 
 // cpanel 
