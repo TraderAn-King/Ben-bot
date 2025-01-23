@@ -185,7 +185,7 @@ async function startBotz() {
   } = await useMultiFileAuthState("session");
   const _0xf79aae = makeWASocket({
     'logger': pino({
-      'level': "silent"
+      'level': "fatal"
     }),
     'printQRInTerminal': false,
     'auth': _0x37e039,
@@ -299,7 +299,7 @@ async function startBotz() {
           console.log("Connection Replaced, Another New Session Opened, Please Close Current Session First");
           _0xf79aae.logout();
         } else if (_0x19f073 === DisconnectReason.loggedOut) {
-          console.log("Device Logged Out, Please Verifikasi Again And Run.");
+          console.log("Device Logged Out, Please Connect Again And Run.");
           _0xf79aae.logout();
         } else if (_0x19f073 === DisconnectReason.restartRequired) {
           console.log("Restart Required, Restarting...");
