@@ -118,6 +118,9 @@
 </div>
 
 
+#### ```NOTHING PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/TraderAn-King/count.svg)
+
 ### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃-𝐁𝐎𝐓`]
 - 🪄 Pashto = ps
 - 🪄 Persian = fa
