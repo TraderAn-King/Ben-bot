@@ -1,7 +1,7 @@
 {
-  "name": "dcx",
+  "name": "nothing-ben",
   "version": "0.0.1",
-  "description": "Ben Is a Simple WA Bot Using Library Baileys",
+  "description": "Ben bot Is a Simple WA Bot Using Library Baileys",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
