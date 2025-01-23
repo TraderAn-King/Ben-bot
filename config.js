@@ -1,4 +1,3 @@
-require('dotenv').config(); // Load environment variables from .env file
 const fs = require('fs');
 const path = require('path');
 const { color } = require('./nothing-ben/myfunc');
@@ -70,48 +69,6 @@ global.api = {
     screenshotapiv2: '054b4800d6664f8fb79e63e419b3c834',
     removebg: '829301093',
 };
-
-// Get the SESSION_ID value from .env file
-const sessionId = process.env.SESSION_ID;
-
-if (sessionId === undefined) {
-  console.log('The SESSION_ID variable is missing in .env!');
-  return;
-}
-
-if (sessionId.trim() === '') {
-  console.log('Your session id is empty, let\'s go');
-}
-
-// Paths for session folder and creds.json file
-const sessionFolder = path.join(__dirname, 'session');
-const credsFilePath = path.join(sessionFolder, 'creds.json');
-
-// Create session folder if it doesn't exist
-if (!fs.existsSync(sessionFolder)) {
-  fs.mkdirSync(sessionFolder);
-  console.log("The 'session' folder has been created.");
-}
-
-// Define an async function for handling file operations
-async function handleFileOperations() {
-  // If creds.json exists, read it
-  let credsData = {};
-  if (fs.existsSync(credsFilePath)) {
-    const fileContent = await fs.promises.readFile(credsFilePath, 'utf-8');
-    credsData = JSON.parse(fileContent);
-  }
-
-  // Add the SESSION_ID to the data
-  credsData.SESSION_ID = sessionId;
-
-  // Write the data to creds.json
-  await fs.promises.writeFile(credsFilePath, JSON.stringify(credsData, null, 2));
-  console.log("The SESSION_ID has been saved in creds.json.");
-}
-
-// Call the async function
-handleFileOperations();
 
 //—————「 DEADLINE 」—————//
 let file = require.resolve(__filename);
