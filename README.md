@@ -39,7 +39,7 @@
 
  ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
    <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1️⃣</h3>
-    <a href="https://nothing-ben-pair.onrender.com">
+    <a href="https://webpair-offcial-7810865b0c4b.herokuapp.com/pair">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
 </div>
@@ -52,7 +52,7 @@
 
  ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
    <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2️⃣</h3>
-    <a href="https://nothing-ben-pair2.onrender.com">
+    <a href="https://webpair-offcial-7810865b0c4b.herokuapp.com/pair">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-black?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
 </div>
